@@ -4,7 +4,7 @@
 
 _________________________________________________________________
 
-<img src="tecleando.jpg" width="600" height="300" style="margin-left: 0.5rem" />
+<img src="tecleando.jpg" height="250" style="width: 100%" />
 <!--
 **loregunner/loregunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

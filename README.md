@@ -4,7 +4,7 @@
 
 _________________________________________________________________
 
-<img src="tecleando.jpg" height="250" style="width: 100%" />
+<img src="https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47n9wn6pv1l8eh3turzghjwz8uj69tvvfoklod2kux&rid=giphy.gif&ct=g" height="250" style="width: 100%" />
 <!--
 **loregunner/loregunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

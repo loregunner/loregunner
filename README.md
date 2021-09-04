@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, Soy Lorena Rippe <img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif?cid=ecf05e47x33yq5qkfz9ldcpfza4yuv5as7bofa2jcmmkda0h&rid=giphy.gif&ct=g)" width="40" height="40" style="margin-left: 0.5rem" />
 
 <!--
 **loregunner/loregunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

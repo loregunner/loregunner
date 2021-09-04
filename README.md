@@ -55,7 +55,7 @@ _________________________________________________________________
 
 # Linkedln
 <div >
-<a href=https://www.linkedin.com/in/gmbernal23/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gmbernal23" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/lorena-rippe/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gmbernal23" height="40" width="40" /></a>
 </div>
 <!--
 

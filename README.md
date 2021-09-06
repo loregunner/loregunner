@@ -8,6 +8,7 @@ _________________________________________________________________
 
 **Frontend Developer, tengo experiencia en frameworks como React o Angular**
 
+**Te cuento que me encanta seguir aprendiendo, quiero aprender React Native, MongoDB y mucho mas :3**
 
 # Tecnologías
 

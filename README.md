@@ -5,7 +5,7 @@
 </p>
 
 
-¡Bienvenido a mi perfil! Soy una desarrolladora FrontEnd o/y FullStack con experiencia en proyectos desafiantes y una fuerte habilidad para el aprendizaje autónomo. Disfruto trabajando en equipo, resolviendo problemas complejos y aprendiendo nuevas tecnologías para mejorar mis habilidades. 🚀✨
+¡Bienvenido a mi perfil! Soy una desarrolladora FrontEnd o/y FullStack con experiencia en proyectos desafiantes y una fuerte habilidad para el aprendizaje autónomo. Actualmente estoy estudiando **Ingeniería de Software** en el **Politécnico Gran Colombiano**. Disfruto trabajando en equipo, resolviendo problemas complejos y aprendiendo nuevas tecnologías para mejorar mis habilidades. 🚀✨
 
 🌟 **Explora mis otros proyectos en GitHub** para ver en qué más he estado trabajando, desde interfaces dinámicas hasta servicios backend. ¡Espero que encuentres inspiración y aprendizaje en cada repositorio! 💖✨
 

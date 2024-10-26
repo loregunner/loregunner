@@ -39,7 +39,6 @@ Aquí tienes un vistazo rápido a mi actividad de código:
 - **Django de cero a experto**
 
 ## 📫 ¡Conecta conmigo!
-- 🐦 [Twitter](https://twitter.com/tu_usuario)
 - 💼 [LinkedIn](https://linkedin.com/in/lorena-rippe)
 - 🔗 [GitHub](https://github.com/loregunner)
 

@@ -1,62 +1,48 @@
-### Hola, Soy Lorena Rippe <img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif?cid=ecf05e47x33yq5qkfz9ldcpfza4yuv5as7bofa2jcmmkda0h&rid=giphy.gif&ct=g)" width="40" height="40" style="margin-left: 0.5rem" />
+# 🌸 Hola, soy Lorena Rippe Forero! 🌸
 
-### Developer Front-End <img src="laptop.gif" width="20" height="20" style="margin-left: 0.5rem" />
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200" alt="Cute Hello GIF" />
+</p>
 
-_________________________________________________________________
 
-<img src="https://media.giphy.com/media/nsKCHXMmNb7yM/giphy.gif?cid=ecf05e475ck83qxbk79hj8ap2ol8qo2b9lvc4gez6t2fyuu0&rid=giphy.gif&ct=g" height="200" width="250" />
+¡Bienvenido a mi perfil! Soy una desarrolladora FrontEnd o/y FullStack con experiencia en proyectos desafiantes y una fuerte habilidad para el aprendizaje autónomo. Disfruto trabajando en equipo, resolviendo problemas complejos y aprendiendo nuevas tecnologías para mejorar mis habilidades. 🚀✨
 
-**Frontend Developer, tengo experiencia en frameworks como React o Angular**
+🌟 **Explora mis otros proyectos en GitHub** para ver en qué más he estado trabajando, desde interfaces dinámicas hasta servicios backend. ¡Espero que encuentres inspiración y aprendizaje en cada repositorio! 💖✨
 
-**Te cuento que me encanta seguir aprendiendo, quiero aprender React Native, MongoDB y mucho mas :3**
+## 🖥️ Tecnologías
+Aquí tienes las herramientas y tecnologías con las que trabajo y que estoy aprendiendo:
 
-# Tecnologías
+- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white), ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white), ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white), ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white), ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white), ![Ktor](https://img.shields.io/badge/-Ktor-0095D5?logo=kotlin&logoColor=white)
+- **Bases de Datos**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white), ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+- **Otras herramientas**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white), ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white), ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white), ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
 
-## Lenguajes de Programacion
+## 🎯 Experiencia Destacada
+| Empresa              | Funciones principales                                                                                         | Tecnologías                             |
+|----------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| **Tecnofactory S.AS** (2021)      | Desarrollo de nuevas funcionalidades en aplicaciones web y pruebas automáticas. Capacitación en PHP y Django. | Angular 11, Azure DevOps, Sourcetree, TypeScript |
+| **Galápago Agroconsultores** (2021) | Desarrollo web y análisis de datos de clientes. Atención al cliente y manejo de errores.          | React, Material UI, Sass, Firebase      |
+| **Habi**                      | Microfrontends y manejo de estado con Redux. Desarrollo de funcionalidades web y resolución de errores. | React, Styled-components, Module Federation, Gatsby, Next.js |
+| **Tu Cash S.A.S** (2023 - Actualidad) | Desarrollo de aplicaciones en React Native y Next.js. Colaboración en momentos críticos de producción. | React Native, React 18, Next.js 13, TypeScript, Redux |
 
-<div>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</div>
+## 📊 Mis estadísticas
+Aquí tienes un vistazo rápido a mi actividad de código:
 
-## Desarrollo frontend
-<div>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://angular.io/" target="_blank"> <img src="https://camo.githubusercontent.com/97daff1d80f13f7b5e38e41f00e01fe02526c7e5f068c540345f212adabaff8b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616e67756c61726a732e706e67" alt="redux" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://camo.githubusercontent.com/c80e85f44dce04441e9e4ad21e93a1484018683d4a1d330057916f471f8b0f28/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f747970657363726970742e706e67" alt="babel" width="40" height="40"/></a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loregunner&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loregunner&theme=dracula&hide_border=true" />
+</p>
 
-## Desarrollo de backend y Devops  
-<div>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/es-es/services/devops/" target="_blank"> <img src="https://dominicanrepublic.techsoup.global/sites/default/files/styles/medium/public/prod-ms-azure-devops-server_big_0.png?itok=U-xK4qPd" alt="docker" width="40" height="40"/></a> 
-</div>
+## 📜 Certificaciones
+- **Master en CSS**: Responsive, SASS, Flexbox, Grid, Bootstrap 4
+- **React Esencial** y **React-Firebase**
+- **Django de cero a experto**
 
-## Backend como servicio (BaaS)
-<div>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-</div>
+## 📫 ¡Conecta conmigo!
+- 🐦 [Twitter](https://twitter.com/tu_usuario)
+- 💼 [LinkedIn](https://linkedin.com/in/lorena-rippe)
+- 🔗 [GitHub](https://github.com/loregunner)
 
-## Testing y otros
-<div>
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://wac-cdn.atlassian.com/dam/jcr:f32681c1-355d-4806-b29c-319b0c6ecb06/Sourcetree-blue.svg?cdnVersion=1791" alt="git" width="40" height="40"/> </a> 
-</div>
+---
 
-## Software
-<div >
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</div>
-
-# Linkedln
-<div >
-<a href="https://www.linkedin.com/in/lorena-rippe/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gmbernal23" height="40" width="40" /></a>
-</div>
-<!--
-
+¡Gracias por visitar mi perfil! 💖 ¡Espero que encuentres inspiración en mi trabajo! 🌸✨

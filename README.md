@@ -20,7 +20,7 @@ Aquí tienes las herramientas y tecnologías con las que trabajo y que estoy apr
 ## 📚 Salesforce Journey
 He comenzado mi camino hacia **Salesforce Developer**, obteniendo conocimientos clave en el ecosistema de Salesforce. Aquí te muestro algunos de los recursos y certificaciones que he completado en **Trailhead**:
 
-- **Trailhead**: [Mi perfil en Trailhead](https://trailhead.salesforce.com/users/me) 🌟
+- **Trailhead**: [Mi perfil en Trailhead](https://www.salesforce.com/trailblazer/lorenarippe) 🌟
 - **Certificaciones**: 
   - **Apex Specialist**
   - **Salesforce Platform Developer I (en progreso)** 
